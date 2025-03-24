@@ -1,0 +1,13 @@
+none_modules/
+*.log
+.env
+*.class
+*.o
+
+
+
+
+
+
+
+
